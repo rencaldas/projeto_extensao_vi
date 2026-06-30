@@ -45,8 +45,6 @@ Este é um **projeto acadêmico e didático**. O algoritmo aqui implementado nã
 └── README.md
 ```
 
-> Os nomes acima seguem a arquitetura planejada para o projeto. Se algum arquivo do seu repositório tiver nome diferente, ajuste esta árvore antes de publicar.
-
 ## Requisitos
 
 - Python 3.8 ou superior
@@ -109,10 +107,9 @@ Projeto de extensão da disciplina **Segurança de Sistemas e Criptografia** —
 
 ## Autoria
 
-- [Nome completo] – [matrícula]
-- [Nome completo] – [matrícula]
-
-> Mesmo em trabalhos desenvolvidos em grupo, a entrega no Canvas é obrigatoriamente individual — confira o formato exigido na guia de entrega da disciplina.
+- Renato de Azevedo Caldas (1230210597)  
+- Diego Lopes Barbosa (1230114811)
+- Luiz Fernando Magalhães da Silva (1230203487)
 
 ## Licença
 
